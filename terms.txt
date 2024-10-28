@@ -1,0 +1,48 @@
+Terms and Conditions
+Head2Head(Ras B Ras). (hereinafter referred to as "Ras B Ras" or "Ras B Ras Application" or "Application"), you agree to the terms and conditions contained in this document (hereinafter referred to as "Terms and Conditions" or "Terms and Conditions of Service"). If you do not agree to any terms or conditions in this document, please do not use Ras B Ras.
+
+Basic Terms
+
+You must be 14 years of age or older to use this Ras B Ras. Do not send, write, or publish any inappropriate or obscene content or words. Do not send, write, or publish any content or words for the purpose of inciting religious, tribal, or personal disputes. You are responsible for the actions that fall under your username. You are responsible for maintaining and protecting your account. You must also immediately notify Ras B Ras of any security breaches or unauthorized use of your Ras B Ras account. Although Ras B Ras will not be liable for any damages that may be incurred by you as a result of unauthorized use of your account, you will be liable for any damages that may be incurred by Ras B Ras or others as a result of unauthorized use. Do not assault, harass, threaten, imitate or incite other users of Ras B Ras. Do not send unwanted comments or spam email to visitors and users of Ras B Ras. Do not send any electronic viruses or any type of destructive software to Ras B Ras or use methods and actions that are harmful to Ras B Ras. Do not misbehave and cause damage to the Ras B Ras application, whether by exploiting or creating errors, loopholes or certain methods that negatively affect Ras B Ras. While using the Ras B Ras application, you must not violate any laws in the country to which you belong.
+
+User Violations
+
+If a member violates one of the previous conditions or what will be mentioned below, the supervisor, representing the Ras B Ras administration, is authorized to take the action he deems appropriate, following the instructions provided to him by the administration. Exposure to the true Islamic religion or any other heavenly religions or any religious sect. Uttering obscene nicknames and words or using obscene nicknames or words or phrases that offend modesty anywhere in Ras B Ras. Harassment and chaos with females (and males as well) such as flirting, numbering and publishing emails. Exposure to any country, institution, company, group, tribe or individual, or exposure to the Ras B Ras administration with any insult or abuse. Advertisements for sites or products that do not belong to Ras B Ras, an advertisement for an application similar to Ras B Ras. Fanaticism by imposing or forcing personal opinion on other participants, whether by mocking or ridiculing the other opinion or insulting the other party to the discussion. Submitting or sending reports, publishing topics, or publishing comments containing false, inaccurate and undocumented information. Impersonating a public figure, a government figure, a famous figure, or the figure of another member of Ras B Ras or the figure of a member of another site or application, and attributing that figure to yourself, or speaking on its behalf. Filling the chat screen with repeated words or lines quickly and annoyingly to other users. Spreading chaos and disputes, or protesting the expulsion process in public conversations or claiming to belong to the administration.
+
+Membership and purchase terms
+
+All products available in the Ras B Ras application store such as gold, diamonds or VIP subscription The user does not have the right to demand Ras B Ras in any way to return the value of the product available in the Ras B Ras application store after purchasing gold, diamonds or VIP subscription. The user's membership is owned by Ras B Ras, so the user or member does not have the right to dispose of his membership in a manner that violates all or some of the terms and conditions, and he may not sell or rent it at all. The member does not have the right to claim any compensation, material or moral, for the loss or occurrence of an error in his membership details, except that the Ras B Ras team has the right to close the Ras B Ras application for a temporary period to update the system or for the purpose of periodic maintenance.
+
+General terms
+
+The Ras B Ras application reserves the right to modify and change the User Agreement at any time. If the modifications or changes constitute a fundamental change in the terms and conditions of the service, we will notify you with notifications within the application. What constitutes a "radical change" is determined by Ras B Ras alone and in good faith. Ras B Ras reserves the right to withhold service from anyone for any reason that Ras B Ras deems infringing and at any time to all users. Ras B Ras reserves the right to withhold service from any infringing person at any time and to withdraw gold or diamonds if the user obtained them through a loophole or glitch in the Ras B Ras application. We may remove some content or accounts that we determine are illegal, infringing on others, or harmful to the image of others or a public figure, or objectionable, or in violation of the intellectual property of others or the terms and conditions of service.
+
+Return Policy
+
+Due to the nature of the service provided by the Ras B Ras application, Ras B Ras does not return any products available in the Ras B Ras application store such as gold, diamonds or VIP subscription after purchasing them and does not provide a refund service. In the event that it is confirmed that the purchased goods have not reached the buyer, Ras B Ras will do everything possible to deliver the purchased goods to him, and in the event that the application is unable to do so, the application will return the full value of the goods to the user in the manner that Ras B Ras deems appropriate.
+
+Intellectual Property Rights
+
+All content on the Ras B Ras application, except for what is submitted by users, including without limitation, writings, software and parts thereof, forms, images, sounds, music, interactive additions and the like (“Content”) logos (“Marks”), are owned or licensed to Ras B Ras under copyright and intellectual property rights. The content provided to you on Ras B Ras is for your personal use and for informational purposes only, and you may not use, copy, reproduce, publish, transmit, broadcast, display, sell, license or otherwise dispose of it for any purpose whatsoever without the prior written consent of its owners. Ras B Ras reserves all rights not expressly granted to Ras B Ras or the application and the application content. You agree not to engage in the use, copy or publication of any of the content except as permitted, including the use, copy or publication of any of the content submitted by users for any commercial purposes. You also agree not to intercept, circumvent, disable or otherwise intercept the security systems related to the add-ons, application features or add-ons and features that limit the use or copying of content, or that set limits on the use of the application or content.
+
+When a member or subscriber, either of them violates all or some of the terms and conditions, Ras B Ras has the full right to cancel his membership or subscription and all of its data completely, and the member or subscriber is not entitled to claim any compensation from Ras B Ras, whether material or moral.
+
+How to use user data and permissions
+
+When you log in to the game, we can obtain your device number, to ensure that you do not lose your account the next time you use this device.
+
+When you upload the avatar in your personal information,
+
+We will obtain permissions to use your album to obtain the photos you have uploaded
+
+When you use the microphone to chat, we will obtain your microphone permissions
+
+When you use our application, we will obtain your log information, including login records, registration records, game records, crash records, etc.
+
+We will collect system crash logs and share them with third-party SDKs to test the stability of our system. SDKs include: firebase-crashlytics, firebase-analytics-ktx, af-android-sdk How to Contact Us
+
+If you have any problems with the protection of this Agreement or personal information, you can share your questions, opinions or suggestions with us and send them to our customer service department or through the following phones and mail marks to contact customer service
+
+Email:【rasbras2024@gmail.com】
+
+Usually, we will respond within fifteen business days.
